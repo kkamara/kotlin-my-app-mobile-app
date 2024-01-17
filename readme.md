@@ -13,6 +13,7 @@
 ## Installation
 
 * [Android Studio](https://developer.android.com/studio)
+* [Run apps on the Android Emulator](https://developer.android.com/studio/run/emulator)
 
 ## Usage
 
