@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
             val enteredName = inputField.text.toString()
             val message = "Welcome $enteredName"
             greetingTextView.text = message
+            inputField.text.clear()
         }
     }
 }
